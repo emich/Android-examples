@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ExampleActivity!</string>
+    <string name="app_name">OnSaveInstanceStateExample</string>
+    <string name="pressToIncrement">Press to increment counter</string>
+    <string name="explanation">Rotating the screen will keep the counter state, while this would not be the case if we were not implementing onSaveInstanceState.</string>
+</resources>
